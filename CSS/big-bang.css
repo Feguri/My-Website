@@ -1,0 +1,38 @@
+body {
+  background: #111025;
+  text-align: center;
+}
+
+h1 {
+  font-size: 1.875rem;
+  margin-top: 0px;
+  font-family: 'Press Start 2P', cursive;
+}
+
+h2 {
+  font-size: 0.9375rem;
+  margin-top: 50px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #9793ff;
+}
+
+.saturn {
+  position: relative;
+  height: 5%;
+  width: 5%;
+}
+
+.middle-div {
+  width: 1100px;
+  height: 3000px;
+  margin: auto;
+  background-color: #231b2f;
+  border-radius: 15px;
+}
